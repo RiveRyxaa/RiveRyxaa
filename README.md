@@ -1,10 +1,6 @@
-# ⚡ `SYSTEM.READY();` // Akses Diberikan untuk Rive 🕵️‍♂️
+<img width="3840" height="2160" alt="910288" src="https://github.com/user-attachments/assets/6bff3059-e3ae-4118-ac3d-2bddb2d2c86a" />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="100" alt="Kali Linux" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;Cyber+Security+%26+Hacking+Expert;Ethical+Hacker+%26+Pentester;Advanced+AI+Prompt+Engineer;Executing+Exploits..." alt="Typing SVG" />
-</div>
+# ⚡ `SYSTEM.READY();` // Akses Diberikan untuk Rive 🕵️‍♂️
 
 ---
 
